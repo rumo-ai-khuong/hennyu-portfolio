@@ -18,6 +18,10 @@ AI・IT・日本語・進路準備の学習記録です。
 - 最初のPythonミニプロジェクト `japanese-vocab-review` を作成した。
 - Pythonで語彙リストを表示する `main.py` を作成した。
 - プロジェクト用のREADMEを整理した。
+- 学習用の本を整理する `book-learning-plan.md` を作成した。
+- `notes/README.md` に Book Learning Plan へのリンクを追加した。
+- READMEに Learning Log と Book Learning Plan へのリンクを追加した。
+- GitHubポートフォリオの中で、学習記録・本・プロジェクトがつながる形になった。
 
 ### 次にやること
 
@@ -26,3 +30,5 @@ AI・IT・日本語・進路準備の学習記録です。
 - Pythonの基礎文法を復習する。
 - ポートフォリオ用のプロフィール画像を準備する。
 - GitHub Student Pack の審査状況を確認する。
+- `japanese-vocab-review` にAI・IT用語を追加する。
+- 本を1冊選んで、短い学習メモを書く。
