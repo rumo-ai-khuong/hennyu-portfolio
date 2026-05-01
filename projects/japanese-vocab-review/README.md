@@ -25,3 +25,39 @@
 - `main.py` を作成する
 - 語彙リストをPythonで表示する
 - 少しずつ語彙を追加する
+---
+
+## ファイル構成
+
+```text
+japanese-vocab-review/
+├── README.md
+└── main.py
+```
+
+## 使い方
+
+ターミナルで以下のコマンドを実行します。
+
+```bash
+python main.py
+```
+
+## 実行結果の例
+
+```text
+Japanese Vocabulary Review
+----------------------------------------
+1. 経営理念（けいえいりねん）
+   Meaning: triết lý kinh doanh
+
+2. 経営戦略（けいえいせんりゃく）
+   Meaning: chiến lược kinh doanh
+```
+
+## 学んだこと
+
+- Pythonでリストを作る方法
+- 辞書型データを使う方法
+- `for`文でデータを順番に表示する方法
+- `f-string`で文字を整えて表示する方法
