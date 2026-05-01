@@ -45,7 +45,15 @@
 
 ## プロジェクト
 
-現在準備中です。
+### Japanese Vocab Review
+
+Pythonを使って、日本語の語彙を整理する小さな練習プロジェクトです。
+
+- 使用言語: Python
+- 内容: 授業で学んだ語彙をリストで整理して表示する
+- 目的: Python基礎と日本語学習をつなげる
+
+[プロジェクトを見る](./projects/japanese-vocab-review)
 
 ---
 
