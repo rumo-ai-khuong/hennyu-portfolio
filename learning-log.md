@@ -32,3 +32,4 @@ AI・IT・日本語・進路準備の学習記録です。
 - GitHub Student Pack の審査状況を確認する。
 - `japanese-vocab-review` にAI・IT用語を追加する。
 - 本を1冊選んで、短い学習メモを書く。
+- Setup SSH for GitHub on MacBook
